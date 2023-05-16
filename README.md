@@ -36,4 +36,12 @@ Lowest Performing Schools (by % Overall Passing)
   Schools are sotred by the (by % Overall Passing) in ascending order and display only the top 5
   Results of the sort are placed in a DataGrame called "bottom_schools"
   
-  
+Math Scores by Grade
+   DataFrame that lists the average math score for students of eachgrade level (9th, 10th, 11th, 12th) at each school.
+
+Reading Scores by Grade
+    DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+Scores by School Spending
+    Breaks down school performance based on average spending ranges (per student).
+
